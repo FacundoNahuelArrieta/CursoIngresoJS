@@ -34,4 +34,4 @@ function mostrar() {
 
 		contador = contador +1;
 
-}*/	  
+}*/
